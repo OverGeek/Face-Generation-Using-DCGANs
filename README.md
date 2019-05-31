@@ -65,6 +65,6 @@ Each Batch Contains 64 randomly selected images from the dataset
 
 ![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/discriminator.png)
 
-### Combined Model
+### <u>Combined Model</u>
 
 ![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/combined.png)
