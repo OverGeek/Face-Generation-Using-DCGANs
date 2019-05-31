@@ -10,3 +10,7 @@ Download and extract the dataset from this link and put the files in this struct
   -/100k<br/>
   --/1.jog<br/>
   --/2.jpg
+
+## Results
+
+### After 1000 epochs
