@@ -10,6 +10,8 @@ Download and extract the dataset from this link and put the files in this struct
   -/100k<br/>
   --/1.jog<br/>
   --/2.jpg
+  
+Run all the cells of the notebook to train on 100,000 batches of images
 
 ## Results
 
@@ -57,14 +59,14 @@ Each Batch Contains 64 randomly selected images from the dataset
 
 ## Architecture
 
-### Generator Model
+### _Generator Model_
 
 ![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/generator.png)
 
-### Discriminator Model
+### _Discriminator Model_
 
 ![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/discriminator.png)
 
-### <u>Combined Model</u>
+### _Combined Model_
 
 ![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/combined.png)
