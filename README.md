@@ -39,6 +39,21 @@ Each Batch Contains 64 randomly selected images from the dataset
 
 ![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/50000.png)
 
+## Architecture
+
+### Generator Model
+
+![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/generator.png)
+
+### Discriminator Model
+
+![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/disciminator.png)
+
+### Combined Model
+
+![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/combined.png)
+
+
 ### After 60000 batches                                                                     
 
 ![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/70000.png)
