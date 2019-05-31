@@ -14,3 +14,5 @@ Download and extract the dataset from this link and put the files in this struct
 ## Results
 
 ### After 1000 epochs
+
+![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/1000.png)
