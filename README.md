@@ -13,11 +13,12 @@ Download and extract the dataset manually from this link and put the files in th
   
 Run all the cells of the notebook to train on 100,000 batches of images
 
-## Results
+## Best Results From Each Notebook
 
 Each Batch Contains 64 randomly selected images from the dataset
 
-### After 1000 batches                                                                     
+### Best Result from the Shallow Network                                                                     
+(After 60000 batchs of training)
 
 ![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/1000.png)
 
