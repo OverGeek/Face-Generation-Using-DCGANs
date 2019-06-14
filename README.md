@@ -34,29 +34,6 @@ Each Batch Contains 64 randomly selected images from the dataset
 
 ![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/images_deeper_network_with_noise_in_real_fake_labels_and_input_images/100000.png)
 
-### After 50000 batches                                                                     
+### Best Results from the Deep Network with Transposed Convolutions                                                                     
 
-![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/50000.png)
-
-### After 60000 batches                                                                     
-
-![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/70000.png)
-
-### After 80000 batches                                                                     
-
-![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/80000.png)
-
-
-## Architecture
-
-### _Generator Model_
-
-![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/generator.png)
-
-### _Discriminator Model_
-
-![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/discriminator.png)
-
-### _Combined Model_
-
-![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/combined.png)
+![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/images_transposed_convolutions/90000.png)
