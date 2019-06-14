@@ -17,14 +17,13 @@ Run all the cells of the notebook to train on 100,000 batches of images
 
 Each Batch Contains 64 randomly selected images from the dataset
 
-### Best Result from the Shallow Network                                                                     
-(After 60000 batchs of training)
+### Best Results from the Shallow Network                                                                     
 
 ![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/images/60000.png)
 
-### After 10000 batches                                                                     
+### Best Results from the Deeper Network                                                                     
 
-![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/10000.png)
+![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/images_deeper_network/100000.png)
 
 
 ### After 30000 batches                                                                     
