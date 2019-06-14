@@ -20,7 +20,7 @@ Each Batch Contains 64 randomly selected images from the dataset
 ### Best Result from the Shallow Network                                                                     
 (After 60000 batchs of training)
 
-![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/1000.png)
+![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/images/60000.png)
 
 ### After 10000 batches                                                                     
 
