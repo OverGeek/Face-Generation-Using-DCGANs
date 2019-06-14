@@ -26,9 +26,9 @@ Each Batch Contains 64 randomly selected images from the dataset
 ![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/images_deeper_network/100000.png)
 
 
-### After 30000 batches                                                                     
+### Best Results from the Deeper Network with Noise in Real and Fake Labels to the Discriminator                                                                     
 
-![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/30000.png)
+![alt text](https://github.com/OverGeek/Face-Generation-Using-DCGANs/blob/master/images_deeper_network_with_noise_in_real_and_fake_labels/100000.png)
 
 ### After 40000 batches                                                                     
 
